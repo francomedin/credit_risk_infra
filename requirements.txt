@@ -1,0 +1,22 @@
+# Requirements for training and notebooks
+# Utils
+jupyter==1.0.0
+pandas==1.4.1
+ipywidgets
+matplotlib == 3.1
+numpy
+protobuf~=3.19.0
+python-dotenv==0.10.1
+black==21.4b2
+xlrd==2.0.1
+seaborn==0.11.2
+cloudpathlib==0.9.0
+boto3==1.9.32
+
+# ML libraries
+scikit-learn==1.0.2
+xgboost == 1.5.1
+catboost==1.0.6
+lightgbm==3.3.2
+
+

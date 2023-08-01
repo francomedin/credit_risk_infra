@@ -1,0 +1,9 @@
+redis==4.1.4
+pandas==1.4.1
+scikit-learn==1.0.2
+xgboost == 1.5.1
+catboost==1.0.6
+lightgbm==3.3.2
+protobuf~=3.19.0
+#tensorflow==2.8.0
+
